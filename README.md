@@ -1,5 +1,7 @@
 # Hola, soy Milborne
 
+<img align="right" width="180" src="assets/milborne-icon.svg" alt="Milborne profile icon" />
+
 ```txt
 Tecnologia + IA + videojuegos
 Curioso por defecto, jugador por naturaleza.

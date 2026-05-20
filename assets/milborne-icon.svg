@@ -1,0 +1,20 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Milborne profile icon</title>
+  <desc id="desc">A playful technology, AI and gaming inspired profile icon.</desc>
+  <rect width="420" height="420" rx="56" fill="#101820"/>
+  <circle cx="116" cy="110" r="46" fill="#2ED3B7"/>
+  <circle cx="304" cy="112" r="42" fill="#FFB84C"/>
+  <path d="M82 286C82 225.8 130.8 177 191 177H229C289.2 177 338 225.8 338 286V304C338 324.4 321.4 341 301 341H119C98.6 341 82 324.4 82 304V286Z" fill="#F5F7FA"/>
+  <path d="M129 272H291C308.7 272 323 286.3 323 304C323 321.7 308.7 336 291 336H129C111.3 336 97 321.7 97 304C97 286.3 111.3 272 129 272Z" fill="#17212B"/>
+  <rect x="142" y="296" width="52" height="16" rx="8" fill="#2ED3B7"/>
+  <rect x="226" y="296" width="52" height="16" rx="8" fill="#FFB84C"/>
+  <path d="M183 120H237C260.2 120 279 138.8 279 162V202C279 225.2 260.2 244 237 244H183C159.8 244 141 225.2 141 202V162C141 138.8 159.8 120 183 120Z" fill="#17212B"/>
+  <rect x="169" y="154" width="31" height="31" rx="8" fill="#2ED3B7"/>
+  <rect x="220" y="154" width="31" height="31" rx="8" fill="#FFB84C"/>
+  <path d="M184 211H236" stroke="#F5F7FA" stroke-width="12" stroke-linecap="round"/>
+  <path d="M210 120V82" stroke="#F5F7FA" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="210" cy="70" r="13" fill="#F5F7FA"/>
+  <path d="M116 110L94 132M116 110L138 132M116 110V140" stroke="#101820" stroke-width="12" stroke-linecap="round"/>
+  <path d="M286 112H322M304 94V130" stroke="#101820" stroke-width="12" stroke-linecap="round"/>
+  <text x="210" y="390" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="36" font-weight="700" fill="#F5F7FA">Milborne</text>
+</svg>
